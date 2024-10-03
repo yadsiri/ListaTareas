@@ -1,3 +1,5 @@
 # ListaTareas
-Una pagina web en donde puedes agregar las tareas que tengas pendientes a forma de lista, tienes dos opciones, marcarlas como completado o eliminarlas.
-Para hacer eso tienes graficamente la opcion de la palomita o la tache, solo basta con dar clic.
+Intrucciones:
+1.- Al momento de estar en la pagina, se pueden escribir tareas pendientes (no se pueden escribir tareas vacias).
+2.- Una vez escrita la tarea, se da en agregar y automaticamente se agregan a una lista en vertical.
+3.- A cada lado de la tarea hay una "palomita" y una "tache", la palomita es para marcar las tareas como completado y la tache elimina las tareas de la lista.
